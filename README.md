@@ -8,3 +8,4 @@
 7. File Handling
 8. Data Structures (Filehandling)
 9. Modular Code
+10. Debugging
